@@ -36,6 +36,5 @@ coding!
 
 - Teammate name #1: Jugraj Singh Bali [GitHub](https://github.com/Jugrajsinghbali) / [LinkedIn](https://linkedin.com/in/jugraj-singh-bali-117994268)
 - Teammate name #2: Julker Nain Nahul [GitHub](https://github.com/nahul100) / [LinkedIn](https://linkedin.com/in/julker-nain-62aa8b2b2)
+- Teammate name #3: Debojit Banerjee [GitHub](https://github.com/debojit59) / [LinkedIn](https://www.linkedin.com/in/debojit59/)
 
-   ...
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
