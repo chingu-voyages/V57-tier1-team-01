@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.header-font {
+  font-family: "Inter", sans-serif;
+}
+
+@theme {
+  --pureBlack: #000000;
+  --blueHOver: #2563eb;
+  --grayText: #9ca3af;
+}
+
+.bg-pureBlack {
+  background-color: var(--pureBlack);
+}
+
+.text-blue {
+  color: var(--blueHOver);
+}
+
+.text-gray {
+  color: var(--grayText);
+}
