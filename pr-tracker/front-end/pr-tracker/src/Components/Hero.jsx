@@ -15,7 +15,7 @@ export default function Hero() {
           Filter, view, and save PR data effortlessly.
         </p>
       </div>
-      <div className="flex justify-center items-center gap-x-6">
+      <div className="flex justify-center items-center gap-x-6 mt-6">
         <button
           className="text-blue-300 bg-black border-blue-300 border-2 px-10 py-3 mt-6
          text-base rounded-xl hover:text-white hover:bg-blue-400 font-bold"
