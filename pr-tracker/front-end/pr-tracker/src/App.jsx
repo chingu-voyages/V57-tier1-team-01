@@ -9,7 +9,7 @@ function App() {
       <div className="">
         <Header />
         <Hero />
-        <div className="bg-black flex justify-center pl-30 pr-30">
+        <div className="bg-black flex justify-center pl-30 pr-30 ">
           <Workflow />
         </div>
       </div>
