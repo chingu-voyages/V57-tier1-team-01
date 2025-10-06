@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="w-full min-h-dvh bg-pureBlack flex flex-col  ">
+    <div className="w-full  bg-pureBlack flex flex-col  ">
       <div className="flex flex-col items-center justify-center pt-24 md:pt-32 lg:pt-40 px-4">
         <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-5xl  text-white max-w-[36ch] text-center  font-bold">
           Stremline Your Github Pull Request Tracking
